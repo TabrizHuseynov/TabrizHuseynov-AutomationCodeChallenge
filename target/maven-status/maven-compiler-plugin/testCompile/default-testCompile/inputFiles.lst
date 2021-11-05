@@ -1,0 +1,9 @@
+/Users/tabrizhuseynov/Desktop/AutomationCodeChallenge/src/test/java/com/xyz_bank/runners/CukesRunner.java
+/Users/tabrizhuseynov/Desktop/AutomationCodeChallenge/src/test/java/com/xyz_bank/step_def/LoginStepDefs.java
+/Users/tabrizhuseynov/Desktop/AutomationCodeChallenge/src/test/java/com/xyz_bank/pages/LoginPage.java
+/Users/tabrizhuseynov/Desktop/AutomationCodeChallenge/src/test/java/com/xyz_bank/utilities/ConfigurationReader.java
+/Users/tabrizhuseynov/Desktop/AutomationCodeChallenge/src/test/java/com/xyz_bank/utilities/DbUtility.java
+/Users/tabrizhuseynov/Desktop/AutomationCodeChallenge/src/test/java/com/xyz_bank/pages/BasePage.java
+/Users/tabrizhuseynov/Desktop/AutomationCodeChallenge/src/test/java/com/xyz_bank/step_def/Hooks.java
+/Users/tabrizhuseynov/Desktop/AutomationCodeChallenge/src/test/java/com/xyz_bank/utilities/BrowserUtils.java
+/Users/tabrizhuseynov/Desktop/AutomationCodeChallenge/src/test/java/com/xyz_bank/utilities/Driver.java
